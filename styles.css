@@ -1,0 +1,35 @@
+.site-head {
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.link {
+    list-style-type: none;
+    display: inline;
+    margin: 16px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+h2,
+.sub-content,
+.head-content {
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(180, 76, 76);
+}
+
+.head-content {
+    background-color: hsla(200, 90%, 80%, 0.9);
+    padding: 4px 16px;
+}
+
+.sub-content {
+    background-color: hsl(215, 80%, 60%);
+}
